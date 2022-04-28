@@ -1,9 +1,9 @@
 #-------------------------------
 # Site Settings
-title: Clancy
+title: Michael Burdick
 logo: # You can add own logo. For example '/images/logo.png'.
-author: Jason Collins
-description: Clancy is a elegant portfolio theme for Jekyll.
+author: Michael Burdick
+description: A portfolio website for Michael Burdick, a Seattle-based software engineer
 
 
 #-------------------------------
@@ -12,20 +12,18 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
-    - title: 'About'
-      url: '/about/'
+    - title: 'Portfolio'
+      url: '/portfolio/'
+    - title: 'Resume'
+      url: '/resume/'
     - title: 'Contact'
       url: '/contact/'
-    - title: 'Elements'
-      url: '/elements/'
 
 
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hello, my name’s Jason. I’m a Designer & Photographer based in San Francisco.
+  hero__title: Hi, I'm Michael, I'm a Seattle-based software engineer.
   hero__description: I'm a freelance designer and photographer. For almost five years I have been working with clients from a variety of clients to create pieces that meet their goals. I invite you to navigate my portfolio to know a bit more about me and my work.
 
 
