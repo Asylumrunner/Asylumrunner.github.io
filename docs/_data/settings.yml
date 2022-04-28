@@ -24,7 +24,7 @@ menu__settings:
 # Hero Settings
 hero:
   hero__title: Hi, I'm Michael, I'm a Seattle-based software engineer.
-  hero__description: I'm an engineer currently with Azure at Microsoft, with a love of diving-head first into complex systems and a passion for the way human behavior and the design of technology can shape one another. Let's build cool stuff!
+  hero__description: I'm an engineer currently with Azure at Microsoft, with a love of diving-head first into complex systems and a passion for the way human behavior and the design of technology can shape one another. Let's build some stuff that helps people.
 
 
 #-------------------------------
