@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Michael Burdick
-logo: # You can add own logo. For example '/images/logo.png'.
+logo: '/images/sitelogo.png'
 author: Michael Burdick
 description: A portfolio website for Michael Burdick, a Seattle-based software engineer
 
