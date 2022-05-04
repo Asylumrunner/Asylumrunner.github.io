@@ -84,7 +84,7 @@ social:
 - {icon: "ion-logo-github", color: "#55acee", label: Github, link: "https://github.com/asylumrunner"}
 - {icon: "ion-logo-linkedin", color: "#1393cd", label: LinkedIn, link: "https://www.linkedin.com/in/michael-burdick-774b0a85/"}
 - {icon: "ion-logo-wordpress", color: "#1393cd", label: Game Design Blog, link: "https://blogofarcanesecrets.wordpress.com/"}
-- {icon: "ion-mail-open", color: "#1393cd", label: Game Design Blog, link: "https://blogofarcanesecrets.wordpress.com/"}
+- {icon: "ion-md-mail-open", color: "#1393cd", label: Game Design Blog, link: "https://blogofarcanesecrets.wordpress.com/"}
 
 # Example of adding a new link to the footer section - {icon: "ion-logo-github", color: "#24292e, label: Github, link: "https://github.com"}
 # Other icons can be found at https://ionicons.com/v4/
