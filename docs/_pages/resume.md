@@ -4,6 +4,8 @@ title: Resume
 permalink: /resume/
 ---
 
+*(Resume in PDF form can be found [here](https://michaelburdick.com/resume.pdf))*
+
 # Education
 **Bachelor of Science in Computer Science**
 
