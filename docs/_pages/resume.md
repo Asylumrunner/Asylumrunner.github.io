@@ -46,7 +46,7 @@ A serverless API built in Node.js that is capable of generating fake personal in
 
 **[Collection Manager](https://github.com/Asylumrunner/CollectionDatabase)**
 
-Implemented with Python, SQLite
+Implemented with Python, Flask, DynamoDB, and AWS Lambda
 
 An application built in Python to manage a personal collection of video games, books, and board games as a relational database, populated with data from 3 public APIs, and served as an API through Lambda
 
