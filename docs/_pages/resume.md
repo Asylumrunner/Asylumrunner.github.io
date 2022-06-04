@@ -6,20 +6,30 @@ permalink: /resume/
 
 # Education
 **Bachelor of Science in Computer Science**
+
 **Bachelor of Arts in Arts and Technology (Game Design Focus)**
+
 The University of Texas at Dallas, Graduated Cum Laude Spring 2017
 
 # Experience
-## Microsoft - Seattle, WA
+**Microsoft - Seattle, WA**
+
 *Software Engineer*
+
 March 2020 - Present
+
 Developed and deployed business features for and supported internal tooling used by hundreds of Azure software teams to manage action items based on requirements coming from across the Azure organization, including designing and implementing a system of ETAs for all action items.
+
 Supported initiatives to migrate and prepare Azure services for deployment in new Qatar region in anticipation of FIFA World Cup, including developing a web application to assist with rollout of Availability Zone functionality to Azure Storage in the region.
 
-## Capital One - Plano, TX
+**Capital One - Plano, TX**
+
 *Associate Software Engineer*
+
 September 2017 - March 2020
+
 Designed, developed, and provided live support for an AWS-based DevOps pipeline, leveraging ECS, Jenkins, and Lambda to support hundreds of deployments a day, enabling push-button, blue-green deployments of containerized applications 
+
 Developed and deployed business features for a customer-facing application serving 50,000 users per month, maintaining performance and scalability, while simultaneously converting the Java backend to a Dockerized, microservice-based architecture
 
 # Software Projects
