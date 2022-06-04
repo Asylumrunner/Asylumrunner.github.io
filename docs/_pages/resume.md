@@ -33,16 +33,25 @@ Designed, developed, and provided live support for an AWS-based DevOps pipeline,
 Developed and deployed business features for a customer-facing application serving 50,000 users per month, maintaining performance and scalability, while simultaneously converting the Java backend to a Dockerized, microservice-based architecture
 
 # Software Projects
-## Maskmaker
+
+*(more can be found in [Portfolio](https://michaelburdick.com/portfolio))*
+
+**[Maskmaker](https://github.com/Asylumrunner/Maskmaker)**
+
 Implemented with Node.js, Express, Docker, AWS Lambda, and API Gateway
+
 A serverless API built in Node.js that is capable of generating fake personal information for tabletop games, utilizing Claudia.js to deploy to AWS and consumed by Dockerized applications
 
-## Collection Manager
+**[Collection Manager](https://github.com/Asylumrunner/CollectionDatabase)**
+
 Implemented with Python, SQLite
+
 An application built in Python to manage a personal collection of video games, books, and board games as a relational database, populated with data from 3 public APIs, and served as an API through Lambda
 
-## Dallas Concert Scraper
+**[Dallas Concert Scraper](https://github.com/Asylumrunner/DallasConcertScraper)**
+
 Implemented with Go and AWS Lambda, and AWS Simple Email Service
+
 A serverless web scraper which compiles the calendars of Dallas-area concert venues, forms them into a single list with a Spotify artist link, and emails it monthly
 
 # Skills and Qualifications
