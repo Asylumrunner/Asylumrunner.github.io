@@ -24,6 +24,8 @@ Developed and deployed business features for and supported internal tooling used
 
 Supported initiatives to migrate and prepare Azure services for deployment in new Qatar region in anticipation of FIFA World Cup, including developing a web application to assist with rollout of Availability Zone functionality to Azure Storage in the region.
 
+Worked on componentization of the Capacity Infrastructure Service which over 100 Azure services use to bootstrap their deployments to the cloud
+
 **Capital One - Plano, TX**
 
 *Associate Software Engineer*
@@ -57,8 +59,9 @@ Implemented with Go and AWS Lambda, and AWS Simple Email Service
 A serverless web scraper which compiles the calendars of Dallas-area concert venues, forms them into a single list with a Spotify artist link, and emails it monthly
 
 # Skills and Qualifications
-- Proficient in: Java, Python, C#, Node.js, Go, Angular, React, and Docker
-- Skilled in the use of Docker, *nix, Chef, Shell Scripting, SQL, and Jenkins
-- Familiar with Machine Learning paradigms, Serverless architecture, and microservice architecture 
+- Proficient in: Java, Python, C#, Node.js, Go, Angular, and React
+- Skilled in the use of Docker, *nix, Git, Shell Scripting, MySQL and PostgreSQL, and Jenkins
+- Experienced with the AWS and Microsoft Azure Clouds
+- Familiar with RESTful API development, Serverless architecture, and microservice architecture 
 
 
