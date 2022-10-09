@@ -14,11 +14,18 @@ permalink: /resume/
 The University of Texas at Dallas, Graduated Cum Laude Spring 2017
 
 # Experience
+
+**Audible - Seattle, WA (Remote)**
+
+*Software Development Engineer II*
+
+October 2022 - Present
+
 **Microsoft - Seattle, WA**
 
 *Software Engineer*
 
-March 2020 - Present
+March 2020 - October 2022
 
 Developed and deployed business features for and supported internal tooling used by hundreds of Azure software teams to manage action items based on requirements coming from across the Azure organization, including designing and implementing a system of ETAs for all action items.
 
