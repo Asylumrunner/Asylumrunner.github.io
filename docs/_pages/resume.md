@@ -21,7 +21,9 @@ The University of Texas at Dallas, Graduated Cum Laude Spring 2017
 
 October 2022 - Present
 
-**Microsoft - Seattle, WA**
+Developed and maintained an automated testing pipeline utilizing Jenkins in conjunction with a TestNG testing suite and AWS Device Farm, to support the testing and deployment of the Audible iOS and Android mobile apps.
+
+**Microsoft - Redmond, WA**
 
 *Software Engineer*
 
@@ -66,7 +68,7 @@ Implemented with Go and AWS Lambda, and AWS Simple Email Service
 A serverless web scraper which compiles the calendars of Dallas-area concert venues, forms them into a single list with a Spotify artist link, and emails it monthly
 
 # Skills and Qualifications
-- Proficient in: Java, Python, C#, Node.js, Go, Angular, and React
+- Proficient in: Java, Python, C#, Node.js, Go, Groovy, Angular, and React
 - Skilled in the use of Docker, *nix, Git, Shell Scripting, MySQL and PostgreSQL, and Jenkins
 - Experienced with the AWS and Microsoft Azure Clouds
 - Familiar with RESTful API development, Serverless architecture, and microservice architecture 
