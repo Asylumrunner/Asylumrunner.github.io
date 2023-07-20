@@ -61,11 +61,11 @@ Implemented with Python, Flask, DynamoDB, and AWS Lambda
 
 An application built in Python to manage a personal collection of video games, books, and board games as a relational database, populated with data from 3 public APIs, and served as an API through Lambda
 
-**[Dallas Concert Scraper](https://github.com/Asylumrunner/DallasConcertScraper)**
+**[Cast Through Time](https://github.com/Asylumrunner/CastThroughTime)**
 
-Implemented with Go and AWS Lambda, and AWS Simple Email Service
+Implemented with React and Redux, Python, Flask, and AWS Amplify
 
-A serverless web scraper which compiles the calendars of Dallas-area concert venues, forms them into a single list with a Spotify artist link, and emails it monthly
+A one-page application designed to help players returning to Magic: The Gathering to recieve personalized information to catch them up on changes to the game
 
 # Skills and Qualifications
 - Proficient in: Java, Python, C#, Node.js, Go, Groovy, Angular, and React

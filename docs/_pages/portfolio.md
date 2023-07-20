@@ -12,6 +12,15 @@ I run a number of tabletop role-playing games (such as Dungeons and Dragons) for
 
 Maskmaker is an API, created with the Express framework for Node.js and hosted via AWS Lambda, which generates non-player characters on the fly, including the ability to generate unique names via Markov Chain. I then consume this API using a series of customized, dockerized Discord bots, each customed tuned to the particular game I am playing, which use the Maskmaker API alongside some basic dice-rolling functionality to assist me while running tabletop RPGs.
 
+## [Cast Through Time](https://github.com/Asylumrunner/CastThroughTime)
+### _Completed Webpage Viewable [Here](https://www.castthroughtime.com)_
+
+*Key Technologies: React, Redux, Python, Flask, AWS (Amplify, Lambda, S3, API Gateway)*
+
+I recently restarted playing the tabletop card game _Magic: The Gathering_ after an almost decade-long hiatus, and discovered that while there were many resources available to help brand new players learn how to play the game from zero, there were seemingly no resources for helping a returning player "catch-up", allowing them to focus on learning changes to the game which happened since the last time they played. So, I decided to build such a site myself.
+
+Cast Through Time is a one-page application in which a user inputs the last time they played _Magic_, and recieve a personalized set of quick-blurb recaps of changes to the game since they last played. The page recieves data through a Flask API written in Python, which also uses a third-party API to ensure it itself remains updated with data about the latest changes to the game. The site focuses on delivering the minimum amount of information in a digestable format which would allow players to quickly return to playing the game with confidence.
+
 ## [Collection Manager](https://github.com/Asylumrunner/CollectionDatabase)
 
 *Key Technologies: Python, Flask, DynamoDB, AWS Lambda*
