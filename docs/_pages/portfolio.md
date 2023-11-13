@@ -6,7 +6,7 @@ permalink: /portfolio/
 
 ## [Maskmaker](https://github.com/Asylumrunner/Maskmaker)
 
-*Key Technologies: Node.js, Express, Docker, AWS Lambda, AWS API Gateway*
+*Key Technologies: Node.js, Express, Docker, AWS (Lambda, API Gateway)*
 
 I run a number of tabletop role-playing games (such as Dungeons and Dragons) for a variety of groups, and one of the hardest parts for me is coming up with distinct personalities for non-player characters (NPCs) on the spot. So, I decided to write myself an application that could automatically generate NPCs, at least in the broad strokes, on my behalf.
 
@@ -40,6 +40,6 @@ The collection is stored in DynamoDB as a NoSQL database, which in turn is manag
 
 ## [Dallas Concert Scraper](https://github.com/Asylumrunner/DallasConcertScraper)
 
-*Key Technologies: Go, AWS Lambda, AWS Simple Email Service*
+*Key Technologies: Go, AWS (Lambda, Simple Email Service)*
 
 While I was living in Dallas, I found myself frustrated by not knowing what shows were playing where and when, and the larger show-aggregation services like bandsintown tended to heavily focus their messaging on arena-scale shows, whereas I was looking for smaller, indie shows at proportionally smaller venues. To remedy this, I built this web scraper in Go, hosting it in AWS Lambda and running it based on a timer, to scrape the calendar pages of music venues I enjoyed, collating their calendars together into a single list, using Spotify's API to add links for the artists so I could sample their music (if they were on Spotify), and then emailing the total list to myself for my convenience.
