@@ -13,13 +13,22 @@ I run a number of tabletop role-playing games (such as Dungeons and Dragons) for
 Maskmaker is an API, created with the Express framework for Node.js and hosted via AWS Lambda, which generates non-player characters on the fly, including the ability to generate unique names via Markov Chain. I then consume this API using a series of customized, dockerized Discord bots, each customed tuned to the particular game I am playing, which use the Maskmaker API alongside some basic dice-rolling functionality to assist me while running tabletop RPGs.
 
 ## [Cast Through Time](https://github.com/Asylumrunner/CastThroughTime)
-### _Completed Webpage Viewable [Here](https://www.castthroughtime.com)_
+#### Completed Webpage Viewable [Here](https://www.castthroughtime.com)
 
 *Key Technologies: React, Redux, Python, Flask, AWS (Amplify, Lambda, S3, API Gateway)*
 
 I recently restarted playing the tabletop card game _Magic: The Gathering_ after an almost decade-long hiatus, and discovered that while there were many resources available to help brand new players learn how to play the game from zero, there were seemingly no resources for helping a returning player "catch-up", allowing them to focus on learning changes to the game which happened since the last time they played. So, I decided to build such a site myself.
 
 Cast Through Time is a one-page application in which a user inputs the last time they played _Magic_, and recieve a personalized set of quick-blurb recaps of changes to the game since they last played. The page recieves data through a Flask API written in Python, which also uses a third-party API to ensure it itself remains updated with data about the latest changes to the game. The site focuses on delivering the minimum amount of information in a digestable format which would allow players to quickly return to playing the game with confidence.
+
+## [Spanish Conjugation Trainer](https://github.com/Asylumrunner/spanish-trainer)
+#### Completed Webpage Viewable [Here](https://www.espanolverbconjugator.com/)
+
+*Key Technologies: React, Redux, Vite.js, Python, Flask, AWS (Amplify, Lambda, API Gateway)*
+
+Following a (delightful) trip to Mexico City, I've been trying to improve my knowledge of Spanish, specifically my number of known verbs and my ability to conjugate those verbs into various tenses. My normal Spanish practice regimen, mostly involving decks of flashcards on top of practice reading, writing, and speaking, is uniquely unsuited for the infinite configurability of verbs, with the combination of tense, mood, and subject allowing for dozens of permutations on a single verb. Thus, I decided to build a web application to act as my "flashcards" for verbs.
+
+The Spanish Conjugation Trainer is a one page app that allows the user to practice their proficiency with Spanish verbs in two modes: Flashcard Mode, which simply asks the player to translate infinitive-form verbs from Spanish to English and back, and Conjugation Mode, which asks players to take a verb, a mood, a tense, and a subject, and correctly conjugate the verb. Score is tracked over a session of play, and a history is kept of answered questions allowing players to review what they've practiced in a session. The page receives conjugation data from a lightweight Python API hosted on Lambda and accessible via API Gateway, relying on [Fred Jehle's Conjugated Spanish Verb Database](https://github.com/ghidinelli/fred-jehle-spanish-verbs), a very helpful store of hundreds of Spanish verbs and all of their conjugations.
 
 ## [Collection Manager](https://github.com/Asylumrunner/CollectionDatabase)
 
